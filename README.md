@@ -2,7 +2,9 @@
 
 - 🔭 I majored in Statistics & Computer Science.
 - 🌱 I’m currently learning Recomendation System.
-- 📫 How to reach me: dataai.say@gmail.com
+- 📫 How to reach me: dataai.say@gmail.com  
+
+[![Saeyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSaeyoon&show_icons=true&theme=dark)](https://github.com/LeeSaeyoon/github-readme-stats)
 
 <!--
 **LeeSaeyoon/LeeSaeyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
