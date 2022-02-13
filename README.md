@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Junior Data Analyst.
 
+- 🔭 I majored in Statistics & Computer Science.
 - 🌱 I’m currently learning Recomendation System.
 - 📫 How to reach me: dataai.say@gmail.com
 
