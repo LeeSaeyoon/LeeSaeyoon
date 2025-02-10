@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Junior Data Analyst.
+### Hi there 👋 I'm Junior Data Scientist.
 
 - 🔭 I majored in Statistics & Computer Science.
 - 🌱 I’m currently learning Recomendation System.
